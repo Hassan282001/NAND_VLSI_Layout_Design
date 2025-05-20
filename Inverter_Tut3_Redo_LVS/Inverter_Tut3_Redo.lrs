@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII23.1-64b:IC23.1-64b.RTM.28 06/19/2023 12:12 (sjfdsl120) $
+sub-version 4.1_USR6_EHF15, integ signature 2023-06-19-1134
+run on soe-2531-25-lin.cfs.uoguelph.ca at Tue Mar  4 12:39:00 2025
+
+Schematic                            | Layout                            | Status
+-----------------------------------------------------------------------------------
+Inverter_Tut3_Redo schematic engg4550| Inverter_Tut3_Redo layout engg4550| matched
+
+Schematic and Layout Match
+
+Schematic:
+  Library:engg4550
+  Cell   :Inverter_Tut3_Redo
+  View   :schematic
+
+Layout:
+  Library:engg4550
+  Cell   :Inverter_Tut3_Redo
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

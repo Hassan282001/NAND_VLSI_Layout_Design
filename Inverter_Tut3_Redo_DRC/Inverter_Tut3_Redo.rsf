@@ -1,0 +1,24 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII23.1-64b:IC23.1-64b.RTM.28 06/19/23 11:35 (sjfdsl120) $
+; sub-version 4.1_USR6_EHF15
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "engg4550" )
+  ?cellName "Inverter_Tut3_Redo"
+  ?viewName "layout"
+  ?workingDirectory "./Inverter_Tut3_Redo_DRC"
+  ?technology "gpdk045_av"
+  ?techLib "/CMC_STC2/kits/cadence/GPDK045/gpdk045_v_6_0/assura_tech.lib"
+  ?avrpt t
+  ?dbuPerUU 2000.0
+  ?flagNon45 t
+  ?flagOffGrid (0.005 1.0)
+  ?joinPins top
+)

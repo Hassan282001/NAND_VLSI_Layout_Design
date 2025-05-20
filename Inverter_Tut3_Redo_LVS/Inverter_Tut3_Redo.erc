@@ -1,0 +1,30 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'Inverter_Tut3_Redo layout engg4550':
+  info: Assign pin label "IN" at (-2.4600, 1.4000) to layer `metal1_conn'.
+  info: Assign pin label "IN" at (-2.4600, 1.4025) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (-1.8850, 0.8750) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (-1.8850, 0.8775) to layer `metal1_conn'.
+  info: Assign pin label "OUT" at (-1.3100, 1.3950) to layer `metal1_conn'.
+  info: Assign pin label "OUT" at (-1.3075, 1.4000) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (-1.8850, 2.0550) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (-1.8850, 2.0575) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'Inverter_Tut3_Redo layout engg4550':
+  info: Assign pin label "IN" at (-2.4600, 1.4000) to layer `metal1_conn'.
+  info: Assign pin label "IN" at (-2.4600, 1.4025) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (-1.8850, 0.8750) to layer `metal1_conn'.
+  info: Assign pin label "VSS" at (-1.8850, 0.8775) to layer `metal1_conn'.
+  info: Assign pin label "OUT" at (-1.3100, 1.3950) to layer `metal1_conn'.
+  info: Assign pin label "OUT" at (-1.3075, 1.4000) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (-1.8850, 2.0550) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (-1.8850, 2.0575) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
